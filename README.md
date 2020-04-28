@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1l7vhQ7H7Td2vDE5aBjvFiExHKvr6ptQ4?usp=sha
 ### VGG16 Task 1 Test Confusion Matrix
 ![VGG16 Task 1 Test Confusion Matrix](result-images/vgg 16 task 1 test confusion.jpg)
 ### Resnet18 Task 1 Test Accuracy
-![Resnet18 Task 1 Test Accuracy](http://url/to/img.png)
+![Resnet18 Task 1 Test Accuracy](https://github.com/oan-99/bscs17008_COVID19_DLSpring2020/blob/master/result-images/resnet%2018%20task%201%20test%20acc%20.jpg)
 ### Resnet18 Task 1 Test Confusion Matrix
 ![Resnet18 Task 1 Test Confusion Matrix](result-images/resnet 18 task 1 test confusion .jpg)
 ### VGG16 Task 2 Test Accuracy
