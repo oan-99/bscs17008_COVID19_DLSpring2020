@@ -28,7 +28,7 @@ https://drive.google.com/drive/folders/1l7vhQ7H7Td2vDE5aBjvFiExHKvr6ptQ4?usp=sha
 
 # Part 2
 # Dataset
-Uploading soon...
+https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=sharing
 # Code File/Jupyter Notebook
 See code folder.
 # Weights/Saved Models
