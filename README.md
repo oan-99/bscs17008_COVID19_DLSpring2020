@@ -34,4 +34,8 @@ See code folder.
 # Weights/Saved Models
 https://drive.google.com/drive/folders/1l7vhQ7H7Td2vDE5aBjvFiExHKvr6ptQ4?usp=sharing
 # Results
-Uploading soon...
+### Vgg16 Validation Confusion Matrix and F1 Score
+![Vgg16 Validation Confusion Matrix and F1 Score](https://github.com/oan-99/bscs17008_COVID19_DLSpring2020/blob/master/result-images/vgg%2016%20with%20f%20val%20conf.jpg)
+### Resnet18 Validation Confusion Matrix and F1 Score
+![Resnet18 Validation Confusion Matrix and F1 Score](https://github.com/oan-99/bscs17008_COVID19_DLSpring2020/blob/master/result-images/resnet%2018%20with%20f%20val%20conf.jpg)
+
